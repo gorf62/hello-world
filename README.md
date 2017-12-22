@@ -1,3 +1,0 @@
-# hello-world
-# ya well, gotta start somewhere...
-# A Intro to Data Science student courtesy of Springboard.com. I will use Git/Github to store my Capstone project files, including documentation, code, presentation, etc.
